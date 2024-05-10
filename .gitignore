@@ -1,0 +1,6 @@
+.env
+.venv
+
+files/**
+!files/.gitkeep
+!files/sample.csv
